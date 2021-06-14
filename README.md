@@ -13,7 +13,10 @@ So in this model, we have performed Convolutional Neural Network along with the 
 4. Matplotlib.pyplot  
 
 ### Dataset  
-Dataset - Images of hands making letters in American Sign Language is available on the Kaggle.
-The American Sign Language alphabet contains 26 letters. Two of those letters (j and z) require movement, so they are not included in the training dataset.  
-![a](https://user-images.githubusercontent.com/57897678/121863052-10859b00-cd19-11eb-8c57-de32beb9fa34.png)
+Dataset - Images of hands making letters in American Sign Language is available on the Kaggle.  
+The American Sign Language alphabet contains 26 letters.  
+Two of those letters (j and z) require movement, so they are not included in the training dataset.  
+![a](https://user-images.githubusercontent.com/57897678/121863052-10859b00-cd19-11eb-8c57-de32beb9fa34.png)  
+
+
 
